@@ -1,6 +1,6 @@
 cask "claudeusage" do
   version "1.0"
-  sha256 "9505bcdbc186350736d31006b2bbe0a62b52055802c7499f96b9b4649385953f"
+  sha256 "9e93ae4ec01db248cc32d22c5d038cddf0ecc08760588f24fdde3d1ba45254af"
 
   url "https://github.com/borjadotai/claude-usage/releases/download/v#{version}/ClaudeUsage-#{version}.zip"
   name "ClaudeUsage"
