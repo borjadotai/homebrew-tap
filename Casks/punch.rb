@@ -1,6 +1,6 @@
 cask "punch" do
-  version "1.0"
-  sha256 "2b6df6f13dc7e151809f3ea6149f780a3fe0a4eb65f3fb690b29badc91dd7538"
+  version "1.1"
+  sha256 "c282e8a8e5665a48425f585ab66ddd29f1c6424601350c478f70976bfe442069"
 
   url "https://github.com/borjadotai/punch/releases/download/v#{version}/PunchApp-#{version}.zip"
   name "Punch"
